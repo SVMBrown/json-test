@@ -1,1 +1,10 @@
 Leiningen.gitignore
+target/
+
+\.lein-env
+
+\.nrepl-port
+
+system\.properties
+
+figwheel_server\.log
